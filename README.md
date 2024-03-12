@@ -3,7 +3,7 @@
 
 This chatbot is created using the open-source Llama 2 LLM model from Meta.
 
-Please see the taipy demo with OpenAI in the folder
+Please see the taipy demo with OpenAI in the folder.
 
 Particularly, we're using the [**Llama2-7B**](https://replicate.com/a16z-infra/llama7b-v2-chat) model deployed by the Andreessen Horowitz (a16z) team and hosted on the [Replicate](https://replicate.com/) platform.
 
