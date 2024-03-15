@@ -1,4 +1,4 @@
-# 🦙💬 CareNet LLAMA2 Chat (simple)
+# 🦙💬 CareNet LLAMA2 Chat (simple version)
 
 
 This chatbot is created using the open-source Llama 2 LLM model from Meta.
