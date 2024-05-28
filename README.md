@@ -1,5 +1,6 @@
 # 🦙💬 CareNet LLAMA2 Chat (simple version)
 
+See 'Gradio App' directory for final implementation with Mistral!
 
 This chatbot is created using the open-source Llama 2 LLM model from Meta.
 
